@@ -1,0 +1,29 @@
+body
+{
+    margin:0px;
+}
+.container
+{
+    background-image: url("https://cdn.vectorstock.com/i/500p/67/82/abstract-landscape-background-with-white-and-grey-vector-49646782.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading
+{
+    font-size: 80px;
+}
+.number
+{
+    font-size: 100px;
+}
+.button
+{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
